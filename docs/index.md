@@ -11,4 +11,4 @@ The content presented here has been drawn from the lectures, live sessions, and 
 
 | PYQs | Link |
 | :--- | :--- |
-| pyq| [Introduction and Functions](./pyqs/main.md) |
+| pyq| [PYQ LINK](./pyqs/main.md) |
