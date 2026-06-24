@@ -1,10 +1,3 @@
----
-layout: default
-title: Home
-nav_order: 1
-permalink: /
----
-
 # Maths 1 | Notes
 
 **Instructor: Vishal Sir**
