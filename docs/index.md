@@ -12,4 +12,4 @@ The content presented here has been drawn from the lectures, live sessions, and 
 | Resources | Link |
 | :--- | :--- |
 | PYQs| [PYQ LINK](./pyqs/main.md) |
-| Combined AQ+PA | [Link](docs/pyqs/AQ_PA_combined (1).pdf) |
+| Combined AQ+PA | [Link](./pyqs/combined.md) |
